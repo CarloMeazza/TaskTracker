@@ -1,7 +1,7 @@
 # Task Tracker
 
 Task Tracker is a command-line application that allows you to manage a list of tasks.
-[text](https://roadmap.sh/projects/task-tracker)
+[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 ## Usage
 
